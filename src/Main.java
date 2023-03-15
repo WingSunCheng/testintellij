@@ -11,6 +11,7 @@ public class Main {
                 String x = list.get( 1 );
                 System.out.println(x);
                 System.out.println("lalalalala");
+                System.out.println("testing");
             }
 
 
