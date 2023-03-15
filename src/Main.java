@@ -14,10 +14,6 @@ public class Main {
                 System.out.println("testing");
 
                 System.out.println("fsdfsf");
-                int i;
-                System.out.println("aaaaaa");
-
-
             }
 
 
