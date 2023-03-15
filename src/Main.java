@@ -10,6 +10,7 @@ public class Main {
                 list.add( "!" );
                 String x = list.get( 1 );
                 System.out.println(x);
+                System.out.println("lalalalala");
             }
 
 
